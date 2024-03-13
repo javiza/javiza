@@ -4,11 +4,11 @@ soy capaz de resolver problemas, me apasiona los nuevos retos, mis metas estan e
 Desde que conocí el mundo Ti supe en ese instante que este era mi camino, desde niño tuve la curiosidad como funcionaban las computadoras y los programas en ellas.
 - 👀 I’m interested in : formar parte de un equipo de trabajo para aportar con ideas y crecer juntos, consolidarme como programador full-stack, dentro de mis habilidades: 
 -  lenguajes javaScript y typeScript.
-     * nestjs, express, nodejs, typeorm
--  python
-    * flask
-    * django
--  java
+     * Nestjs, Express, Nodejs, TypeOrm
+-  Python
+    * Flask
+    * Django
+-  Java
 -  para base de datos poseo conocimientos SQL:
     * PostgreSQL
     * OracleSQL
