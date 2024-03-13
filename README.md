@@ -13,7 +13,7 @@ Desde que conocí el mundo Ti supe en ese instante que este era mi camino, desde
     * PostgreSQL
     * OracleSQL
     * MongoDB(NotSQL)  
-Tambien he trabajado con ReactJs, pero lo que me siento identificadpo es con el Backend y Base de Datos.
+Tambien he trabajado con ReactJs, pero lo que me siento identificado es con el Backend y Base de Datos.
 
 Hobbies: soy un amante de la tecnología, me gusta el cine en especialmente la ciencia ficción.
 
